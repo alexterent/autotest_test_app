@@ -1,0 +1,8 @@
+- id: 1
+  label: click button 1
+  link: https://google.ru
+- depends: 1
+  id: 2
+  label: click button 2
+- id: 3
+  label: click button 3

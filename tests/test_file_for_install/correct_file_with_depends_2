@@ -1,0 +1,4 @@
+- depends: correct_file_with_depends_1
+  id: 2
+  label: click button 2
+  link: https://yandex.ru
